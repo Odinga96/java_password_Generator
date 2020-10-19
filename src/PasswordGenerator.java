@@ -7,6 +7,11 @@ import java.util.Random;
  */
 public class PasswordGenerator {
 
+    /**
+     * Generates password of length n,
+     * @param n : Length of password to generate
+     * @return : The generated password
+     */
     public String generatePassword(int n)
     {
 
